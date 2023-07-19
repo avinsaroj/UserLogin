@@ -1,0 +1,12 @@
+D:\MyCode\Fitness\Fitness.Model\bin\Debug\net6.0\Fitness.Model.deps.json
+D:\MyCode\Fitness\Fitness.Model\bin\Debug\net6.0\Fitness.Model.dll
+D:\MyCode\Fitness\Fitness.Model\bin\Debug\net6.0\Fitness.Model.pdb
+D:\MyCode\Fitness\Fitness.Model\obj\Debug\net6.0\Fitness.Model.csproj.AssemblyReference.cache
+D:\MyCode\Fitness\Fitness.Model\obj\Debug\net6.0\Fitness.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCode\Fitness\Fitness.Model\obj\Debug\net6.0\Fitness.Model.AssemblyInfoInputs.cache
+D:\MyCode\Fitness\Fitness.Model\obj\Debug\net6.0\Fitness.Model.AssemblyInfo.cs
+D:\MyCode\Fitness\Fitness.Model\obj\Debug\net6.0\Fitness.Model.csproj.CoreCompileInputs.cache
+D:\MyCode\Fitness\Fitness.Model\obj\Debug\net6.0\Fitness.Model.dll
+D:\MyCode\Fitness\Fitness.Model\obj\Debug\net6.0\refint\Fitness.Model.dll
+D:\MyCode\Fitness\Fitness.Model\obj\Debug\net6.0\Fitness.Model.pdb
+D:\MyCode\Fitness\Fitness.Model\obj\Debug\net6.0\ref\Fitness.Model.dll

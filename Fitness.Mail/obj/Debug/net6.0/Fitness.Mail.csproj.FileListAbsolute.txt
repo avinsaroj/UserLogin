@@ -1,0 +1,12 @@
+D:\MyCode\Fitness\Fitness.Mail\bin\Debug\net6.0\Fitness.Mail.deps.json
+D:\MyCode\Fitness\Fitness.Mail\bin\Debug\net6.0\Fitness.Mail.dll
+D:\MyCode\Fitness\Fitness.Mail\bin\Debug\net6.0\Fitness.Mail.pdb
+D:\MyCode\Fitness\Fitness.Mail\obj\Debug\net6.0\Fitness.Mail.csproj.AssemblyReference.cache
+D:\MyCode\Fitness\Fitness.Mail\obj\Debug\net6.0\Fitness.Mail.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCode\Fitness\Fitness.Mail\obj\Debug\net6.0\Fitness.Mail.AssemblyInfoInputs.cache
+D:\MyCode\Fitness\Fitness.Mail\obj\Debug\net6.0\Fitness.Mail.AssemblyInfo.cs
+D:\MyCode\Fitness\Fitness.Mail\obj\Debug\net6.0\Fitness.Mail.csproj.CoreCompileInputs.cache
+D:\MyCode\Fitness\Fitness.Mail\obj\Debug\net6.0\Fitness.Mail.dll
+D:\MyCode\Fitness\Fitness.Mail\obj\Debug\net6.0\refint\Fitness.Mail.dll
+D:\MyCode\Fitness\Fitness.Mail\obj\Debug\net6.0\Fitness.Mail.pdb
+D:\MyCode\Fitness\Fitness.Mail\obj\Debug\net6.0\ref\Fitness.Mail.dll

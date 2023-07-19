@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Fitness.DataAccess\Fitness.DataAccess.csproj" />
+    <ProjectReference Include="..\Fitness.Mail\Fitness.Mail.csproj" />
+    <ProjectReference Include="..\Fitness.Model\Fitness.Model.csproj" />
+  </ItemGroup>
+
+</Project>
